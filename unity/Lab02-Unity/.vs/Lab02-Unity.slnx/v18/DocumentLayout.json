@@ -1,10 +1,43 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Shahm\\Lab02-Unity\\",
+  "WorkspaceRootPath": "C:\\Users\\Shahm\\comp3770-110133966\\unity\\Lab02-Unity\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shahm\\Lab02-Unity\\Assets\\scripts\\HelloGame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\HelloGame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shahm\\comp3770-110133966\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\shahm\\comp3770-110133966\\unity\\lab02-unity\\assets\\lab03\\scripts\\lab03challangemover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\lab03\\scripts\\lab03challangemover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\shahm\\comp3770-110133966\\unity\\lab02-unity\\assets\\lab03\\scripts\\lab03interpolater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\lab03\\scripts\\lab03interpolater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\shahm\\comp3770-110133966\\unity\\lab02-unity\\assets\\lab03\\scripts\\lab03follower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\lab03\\scripts\\lab03follower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shahm\\comp3770-110133966\\unity\\logs\\lab03-timeline-unity.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\shahm\\comp3770-110133966\\unity\\lab02-unity\\assets\\lab03\\scripts\\lab03_frameratecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\lab03\\scripts\\lab03_frameratecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\shahm\\comp3770-110133966\\unity\\lab02-unity\\assets\\lab03\\scripts\\lab03mover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\lab03\\scripts\\lab03mover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\shahm\\comp3770-110133966\\unity\\lab02-unity\\assets\\lab03\\scripts\\lab03lifecyclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\lab03\\scripts\\lab03lifecyclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shahm\\comp3770-110133966\\unity\\logs\\lab03-order-unity.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\shahm\\comp3770-110133966\\unity\\lab02-unity\\assets\\lab03\\scripts\\lab03lifecyclelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\lab03\\scripts\\lab03lifecyclelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,20 +47,137 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lab03ChallangeMover.cs",
+              "DocumentMoniker": "C:\\Users\\Shahm\\comp3770-110133966\\unity\\Lab02-Unity\\Assets\\Lab03\\Scripts\\Lab03ChallangeMover.cs",
+              "RelativeDocumentMoniker": "Assets\\Lab03\\Scripts\\Lab03ChallangeMover.cs",
+              "ToolTip": "C:\\Users\\Shahm\\comp3770-110133966\\unity\\Lab02-Unity\\Assets\\Lab03\\Scripts\\Lab03ChallangeMover.cs",
+              "RelativeToolTip": "Assets\\Lab03\\Scripts\\Lab03ChallangeMover.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T18:05:32.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Shahm\\comp3770-110133966\\README.md",
+              "RelativeDocumentMoniker": "..\\..\\README.md",
+              "ToolTip": "C:\\Users\\Shahm\\comp3770-110133966\\README.md",
+              "RelativeToolTip": "..\\..\\README.md",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAgwIgAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-10-19T15:53:26.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lab03Interpolater.cs",
+              "DocumentMoniker": "C:\\Users\\Shahm\\comp3770-110133966\\unity\\Lab02-Unity\\Assets\\Lab03\\Scripts\\Lab03Interpolater.cs",
+              "RelativeDocumentMoniker": "Assets\\Lab03\\Scripts\\Lab03Interpolater.cs",
+              "ToolTip": "C:\\Users\\Shahm\\comp3770-110133966\\unity\\Lab02-Unity\\Assets\\Lab03\\Scripts\\Lab03Interpolater.cs",
+              "RelativeToolTip": "Assets\\Lab03\\Scripts\\Lab03Interpolater.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T17:37:16.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lab03Follower.cs",
+              "DocumentMoniker": "C:\\Users\\Shahm\\comp3770-110133966\\unity\\Lab02-Unity\\Assets\\Lab03\\Scripts\\Lab03Follower.cs",
+              "RelativeDocumentMoniker": "Assets\\Lab03\\Scripts\\Lab03Follower.cs",
+              "ToolTip": "C:\\Users\\Shahm\\comp3770-110133966\\unity\\Lab02-Unity\\Assets\\Lab03\\Scripts\\Lab03Follower.cs",
+              "RelativeToolTip": "Assets\\Lab03\\Scripts\\Lab03Follower.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T17:04:52.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Lab03_FrameRateControl.cs",
+              "DocumentMoniker": "C:\\Users\\Shahm\\comp3770-110133966\\unity\\Lab02-Unity\\Assets\\Lab03\\Scripts\\Lab03_FrameRateControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Lab03\\Scripts\\Lab03_FrameRateControl.cs",
+              "ToolTip": "C:\\Users\\Shahm\\comp3770-110133966\\unity\\Lab02-Unity\\Assets\\Lab03\\Scripts\\Lab03_FrameRateControl.cs",
+              "RelativeToolTip": "Assets\\Lab03\\Scripts\\Lab03_FrameRateControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T16:40:10.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Lab03Mover.cs",
+              "DocumentMoniker": "C:\\Users\\Shahm\\comp3770-110133966\\unity\\Lab02-Unity\\Assets\\Lab03\\Scripts\\Lab03Mover.cs",
+              "RelativeDocumentMoniker": "Assets\\Lab03\\Scripts\\Lab03Mover.cs",
+              "ToolTip": "C:\\Users\\Shahm\\comp3770-110133966\\unity\\Lab02-Unity\\Assets\\Lab03\\Scripts\\Lab03Mover.cs",
+              "RelativeToolTip": "Assets\\Lab03\\Scripts\\Lab03Mover.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAqwEkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T16:40:32.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Lab03LifecycleController.cs",
+              "DocumentMoniker": "C:\\Users\\Shahm\\comp3770-110133966\\unity\\Lab02-Unity\\Assets\\Lab03\\Scripts\\Lab03LifecycleController.cs",
+              "RelativeDocumentMoniker": "Assets\\Lab03\\Scripts\\Lab03LifecycleController.cs",
+              "ToolTip": "C:\\Users\\Shahm\\comp3770-110133966\\unity\\Lab02-Unity\\Assets\\Lab03\\Scripts\\Lab03LifecycleController.cs",
+              "RelativeToolTip": "Assets\\Lab03\\Scripts\\Lab03LifecycleController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvx8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T16:23:25.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Lab03LifecycleLogger.cs",
+              "DocumentMoniker": "C:\\Users\\Shahm\\comp3770-110133966\\unity\\Lab02-Unity\\Assets\\Lab03\\Scripts\\Lab03LifecycleLogger.cs",
+              "RelativeDocumentMoniker": "Assets\\Lab03\\Scripts\\Lab03LifecycleLogger.cs",
+              "ToolTip": "C:\\Users\\Shahm\\comp3770-110133966\\unity\\Lab02-Unity\\Assets\\Lab03\\Scripts\\Lab03LifecycleLogger.cs",
+              "RelativeToolTip": "Assets\\Lab03\\Scripts\\Lab03LifecycleLogger.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAIwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T15:44:28.404Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HelloGame.cs",
-              "DocumentMoniker": "C:\\Users\\Shahm\\Lab02-Unity\\Assets\\scripts\\HelloGame.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\HelloGame.cs",
-              "ToolTip": "C:\\Users\\Shahm\\Lab02-Unity\\Assets\\scripts\\HelloGame.cs",
-              "RelativeToolTip": "Assets\\scripts\\HelloGame.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T16:29:22.349Z",
+              "DocumentIndex": 4,
+              "Title": "lab03-timeline-unity.txt",
+              "DocumentMoniker": "C:\\Users\\Shahm\\comp3770-110133966\\unity\\logs\\lab03-timeline-unity.txt",
+              "RelativeDocumentMoniker": "..\\logs\\lab03-timeline-unity.txt",
+              "ToolTip": "C:\\Users\\Shahm\\comp3770-110133966\\unity\\logs\\lab03-timeline-unity.txt",
+              "RelativeToolTip": "..\\logs\\lab03-timeline-unity.txt",
+              "ViewState": "AgIAALwBAAAAAAAAAAAAAFkBAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-10-19T16:27:37.575Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "lab03-order-unity.txt",
+              "DocumentMoniker": "C:\\Users\\Shahm\\comp3770-110133966\\unity\\logs\\lab03-order-unity.txt",
+              "RelativeDocumentMoniker": "..\\logs\\lab03-order-unity.txt",
+              "ToolTip": "C:\\Users\\Shahm\\comp3770-110133966\\unity\\logs\\lab03-order-unity.txt",
+              "RelativeToolTip": "..\\logs\\lab03-order-unity.txt",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-10-19T15:50:26.044Z"
             }
           ]
         }
