@@ -1,0 +1,46 @@
+Lab04_PropA.obj, 
+author quaterneus
+License:
+CC0 1.0 Universal (CC0 1.0) 
+Public Domain Dedication
+https://creativecommons.org/publicdomain/zero/1.0/
+https://quaternius.com/packs/animatedalien.html
+
+Lab04_PropA.fbx, 
+author quaternius
+License:
+CC0 1.0 Universal (CC0 1.0) 
+Public Domain Dedication
+https://creativecommons.org/publicdomain/zero/1.0/
+https://quaternius.com/packs/animatedalien.html
+
+Lab04_PropB.fbx, 
+License:
+CC0 1.0 Universal (CC0 1.0) 
+Public Domain Dedication
+https://creativecommons.org/publicdomain/zero/1.0/
+https://quaternius.com/packs/buildings.html
+author: Quaternius
+
+Lab04_PropC.fbx, 
+License:
+CC0 1.0 Universal (CC0 1.0) 
+Public Domain Dedication
+https://creativecommons.org/publicdomain/zero/1.0/
+https://quaternius.com/packs/buildings.html
+author Quaternius
+
+
+Lab04_Texture.png, 
+https://ambientcg.com/view?id=Road007
+author ambientcg
+licensed under the Creative Commons CC0 1.0 Universal License.
+
+
+
+Lab04_Sound.wav
+https://kenney.nl/assets/interface-sounds
+original name: toggle 1
+author kennynl
+licensed under the Creative Commons CC0 1.0 Universal License.
+

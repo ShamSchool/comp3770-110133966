@@ -146,3 +146,17 @@ by deltatime makes it so they all move at the same speed
 2. an alternative technique i saw was to use fixedupdate with fixed deltatime
 I chose update and deltatime because it adjusts movements ot the time between frames
 and looks smoother.
+
+
+
+# Lab 04
+1) 
+1. Obj file stored as descriptions of mesh via numbers and characters, fbx is encoded.
+2. Both files encode mesh data, obj stores it in vectors fbx stores encoded with stuff like unitscalefactor and frontaxis being visible text
+3. obj = approx 7000 lines fbx is approx 14000. fbx is approx double the lines. In a binary representation, three 32-bit floating-point values require only 12 bytes in total because each float occupies 4 bytes.
+4. png �PNG this helps a file recognize that its a png
+  wav RIFFF/ Wav These readable identifiers indicate a RIFF-format file containing WAVE audio data.
+  fbx Kaydara FBX Binary   This identifies the file as a binary FBX document.
+
+2) 
+
