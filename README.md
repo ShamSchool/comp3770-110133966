@@ -158,5 +158,8 @@ and looks smoother.
   wav RIFFF/ Wav These readable identifiers indicate a RIFF-format file containing WAVE audio data.
   fbx Kaydara FBX Binary   This identifies the file as a binary FBX document.
 
-2) 
+8)
+1. shows version number, size and a hash that tells contents of file
+2. The reason why git lfs isnt as heavy is because it stores all large data files in git lfs and points to them
+
 
