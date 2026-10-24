@@ -150,7 +150,7 @@ and looks smoother.
 
 
 # Lab 04
-1) 
+1) Text and binary files
 1. Obj file stored as descriptions of mesh via numbers and characters, fbx is encoded.
 2. Both files encode mesh data, obj stores it in vectors fbx stores encoded with stuff like unitscalefactor and frontaxis being visible text
 3. obj = approx 7000 lines fbx is approx 14000. fbx is approx double the lines. In a binary representation, three 32-bit floating-point values require only 12 bytes in total because each float occupies 4 bytes.
@@ -158,8 +158,57 @@ and looks smoother.
   wav RIFFF/ Wav These readable identifiers indicate a RIFF-format file containing WAVE audio data.
   fbx Kaydara FBX Binary   This identifies the file as a binary FBX document.
 
-8)
+2) Mesh data
+1. Lab04 propA.obj has 7454lines 3780 faces after import, unity reported the same number. 
+2. the model with the most triangles is lab04propC and it has 16604 triangles with about 1.41 per triangle on averagge 
+3. v is vertex count , vt is uv, vn is  normals, f is triangles. 
+4. read/write being enabled allows unity to keep mesh data accepsible to scripts after its been uploaded. It causes your game to use additional memory
+5. mesh report finds the meshes, runs start and goes throguh each object in targets, finds each mesh used. After this it prints out information about the mesh. it reads vertexcount, tringle amount,uv amount, normal  vectors, and the size. It prints out vertecies, triangles, if theres uv, how many normals, and its size.
+
+3) Imported assets
+1. for the texture max size controls the resolution for the texture and compression controls how its compressed. for the sound load type controls how it loads data and compression format controls the compression. These only change for unity imports, the original files remain unchanged.
+2. the library folder holds unitys imported asset data. Gitignore excludes it because it adds too many unessesary generated files that you can just get from assets. 
+
+4) Prefabs
+1. both instances show 25 as points, however instance 2 stays with the spin speed. the reason for this is that it has an override while the points were changed on the asset
+2. prefab is a text file and the last three lines hold the values i edited
+3. the point edit belongs to the prefab and the spin speed is for the instance
+4. the code sets default values for spin speed,  name and points and the callback that runs the rotation is the update function. spin speed uses a floating point number
+
+5) Runtime Instantiation
+1. awake and onenable run before instantiate. start and update run after in the same frame.
+2. total duration for 500 was 621.6 ms so about 1.24 on avg
+3. parts of the game that benefits from instatniating over several frames is projectiles or enemies as they can make the game smoother, Another thing you can do is keep destroying and remakign the same prefab by  object pooling
+4. the spawner starts a stopwatch for measuring and calculates columns, after the calculation it instantiates the copies and divvies them up in columns and rows. when the count is 10 or less the script logs information about the copy. finally it stops stopwatch and logs data. 
+
+6) Data file and Managers
+1. the value that changed is the points i skipped rebuildng the  game because it read the json file
+2. json parse error because of the closing bracket being gone, if the file is invalid like that, datamanager should report the problem and fail intentionally instead of creating from invalid data
+3. a text data file is way more readable and allows for easier editing
+4. id matches id, prefab matches prefab, x y and z store position, points store points, spinspeed matches spin speed
+5. the code finds the json file, reads alll of its contents and then converts it to an entity list, It loops throguh each identity, and stores it by id. Then adds methods to find entities by id or iteration. 
+
+Part 2
+1. the entitymanager asks the datamanager because the dataamanager already loads and stores the json data.
+2. the log line entitymanager despawned entity_01 shows that the entity was despawned and remvoed from the directory by id. 
+3. when an entity is spawned it calls awake and onenable during instantiate, its start runs before the first update. when it is despawned destroy removes it and then ondisable and ondistroy are called
+4. manager demo checks the game time, when the time reaches 3 seconds it logs and despawns the fist entity, when it hits 5 it logs ans spawns again. Log lines that say MARK show these changes.
+5. start calls spawnall and it loops throguh all entitydata and spawns each one using id. get searches the dictionary for the id and returns its object. Clear destroys all spawned entities, empties the directory, and logs that entitymanager was cleared
+
+7) Scenes
+1. while the game runs the hierarchy lists both the main scene and the lab4level
+the entities spawned are in the main scene. 
+2. once unity unloads lab4 level the objects that belong to it dissapear objects in the main scene stay
+3. designers have to decide which scene has thespawned entities and if they will despawn upon scene change
+4. lab4scene loader loads lab4level additively and then waits till it finishes loading to call spawnall so they spawn after the level is availible.
+
+8) GIT LFS
 1. shows version number, size and a hash that tells contents of file
 2. The reason why git lfs isnt as heavy is because it stores all large data files in git lfs and points to them
+
+9) Challange
+1. the lab4 entitymanager owns the dictionary of live entities. I used the clear methdo to destroy old ones before new ones spawn. my controller uses time.time to check if 5 seconds have passed
+2. I considered usign time.deltatime every frame but i decided to use time.time becuase it would be more imple to check when I had to switch.
+
 
 

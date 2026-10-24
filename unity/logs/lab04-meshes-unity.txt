@@ -1,0 +1,11 @@
+[Lab04] Lab04_PropA/default: vertices 7454, triangles 3780, uv True, normals 7454, size (1.39, 2.91, 1.23)
+UnityEngine.Debug:Log (object)
+Lab04MeshReport:Start () (at Assets/Lab04/Scripts/Lab04MeshReport.cs:14)
+
+[Lab04] Lab04_PropB/Building2_Small: vertices 6450, triangles 5160, uv False, normals 6450, size (0.04, 0.02, 0.05)
+UnityEngine.Debug:Log (object)
+Lab04MeshReport:Start () (at Assets/Lab04/Scripts/Lab04MeshReport.cs:14)
+
+[Lab04] Lab04_PropC/Building1_Small: vertices 23481, triangles 16604, uv False, normals 23481, size (0.04, 0.03, 0.05)
+UnityEngine.Debug:Log (object)
+Lab04MeshReport:Start () (at Assets/Lab04/Scripts/Lab04MeshReport.cs:14)

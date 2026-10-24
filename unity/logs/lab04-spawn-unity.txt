@@ -1,0 +1,373 @@
+[t=0.00 frame=1] Prop.Awake
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Awake () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:13)
+UnityEngine.Object:Instantiate<UnityEngine.GameObject> (UnityEngine.GameObject,UnityEngine.Vector3,UnityEngine.Quaternion,UnityEngine.Transform)
+Lab04Spawner:Start () (at Assets/Lab04/Scripts/Lab04Spawner.cs:20)
+
+[t=0.00 frame=1] Prop.OnEnable
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:OnEnable () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:17)
+UnityEngine.Object:Instantiate<UnityEngine.GameObject> (UnityEngine.GameObject,UnityEngine.Vector3,UnityEngine.Quaternion,UnityEngine.Transform)
+Lab04Spawner:Start () (at Assets/Lab04/Scripts/Lab04Spawner.cs:20)
+
+[t=0.00 frame=1] after Instantiate: Lab04_PropA(Clone)
+UnityEngine.Debug:Log (object)
+Lab04Spawner:Start () (at Assets/Lab04/Scripts/Lab04Spawner.cs:23)
+
+[t=0.00 frame=1] Prop.Awake
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Awake () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:13)
+UnityEngine.Object:Instantiate<UnityEngine.GameObject> (UnityEngine.GameObject,UnityEngine.Vector3,UnityEngine.Quaternion,UnityEngine.Transform)
+Lab04Spawner:Start () (at Assets/Lab04/Scripts/Lab04Spawner.cs:20)
+
+[t=0.00 frame=1] Prop.OnEnable
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:OnEnable () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:17)
+UnityEngine.Object:Instantiate<UnityEngine.GameObject> (UnityEngine.GameObject,UnityEngine.Vector3,UnityEngine.Quaternion,UnityEngine.Transform)
+Lab04Spawner:Start () (at Assets/Lab04/Scripts/Lab04Spawner.cs:20)
+
+[t=0.00 frame=1] after Instantiate: Lab04_PropA(Clone)
+UnityEngine.Debug:Log (object)
+Lab04Spawner:Start () (at Assets/Lab04/Scripts/Lab04Spawner.cs:23)
+
+[t=0.00 frame=1] Prop.Awake
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Awake () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:13)
+UnityEngine.Object:Instantiate<UnityEngine.GameObject> (UnityEngine.GameObject,UnityEngine.Vector3,UnityEngine.Quaternion,UnityEngine.Transform)
+Lab04Spawner:Start () (at Assets/Lab04/Scripts/Lab04Spawner.cs:20)
+
+[t=0.00 frame=1] Prop.OnEnable
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:OnEnable () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:17)
+UnityEngine.Object:Instantiate<UnityEngine.GameObject> (UnityEngine.GameObject,UnityEngine.Vector3,UnityEngine.Quaternion,UnityEngine.Transform)
+Lab04Spawner:Start () (at Assets/Lab04/Scripts/Lab04Spawner.cs:20)
+
+[t=0.00 frame=1] after Instantiate: Lab04_PropA(Clone)
+UnityEngine.Debug:Log (object)
+Lab04Spawner:Start () (at Assets/Lab04/Scripts/Lab04Spawner.cs:23)
+
+[Lab04] 3 instantiations in 13.54 ms
+UnityEngine.Debug:Log (object)
+Lab04Spawner:Start () (at Assets/Lab04/Scripts/Lab04Spawner.cs:27)
+
+[t=0.00 frame=1] Prop.Start
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Start () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:21)
+
+[t=0.00 frame=1] Prop.FixedUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:FixedUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:25)
+
+[t=0.00 frame=1] Prop.Start
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Start () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:21)
+
+[t=0.00 frame=1] Prop.FixedUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:FixedUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:25)
+
+[t=0.00 frame=1] Prop.Start
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Start () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:21)
+
+[t=0.00 frame=1] Prop.FixedUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:FixedUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:25)
+
+[t=0.00 frame=1] Prop.Update (world (0.00, 0.00, 0.00), local (15.46, -2.23, -73.32))
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Update () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:31)
+
+[t=0.00 frame=1] Prop.Update (world (3.00, 0.00, 0.00), local (18.46, -2.23, -73.32))
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Update () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:31)
+
+[t=0.00 frame=1] Prop.Update (world (0.00, 0.00, 3.00), local (15.46, -2.23, -70.32))
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Update () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:31)
+
+[t=0.00 frame=1] Prop.LateUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:LateUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:36)
+
+[t=0.00 frame=1] Prop.LateUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:LateUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:36)
+
+[t=0.00 frame=1] Prop.LateUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:LateUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:36)
+
+[t=1.01 frame=104] Prop.Update (world (0.00, 0.00, 0.00), local (15.46, -2.23, -73.32))
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Update () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:31)
+
+[t=1.01 frame=104] Prop.Update (world (3.00, 0.00, 0.00), local (18.46, -2.23, -73.32))
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Update () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:31)
+
+[t=1.01 frame=104] Prop.Update (world (0.00, 0.00, 3.00), local (15.46, -2.23, -70.32))
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Update () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:31)
+
+[t=1.01 frame=104] Prop.LateUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:LateUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:36)
+
+[t=1.01 frame=104] Prop.LateUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:LateUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:36)
+
+[t=1.01 frame=104] Prop.LateUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:LateUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:36)
+
+[t=1.02 frame=105] Prop.FixedUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:FixedUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:25)
+
+[t=1.02 frame=105] Prop.FixedUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:FixedUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:25)
+
+[t=1.02 frame=105] Prop.FixedUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:FixedUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:25)
+
+[t=2.01 frame=239] Prop.Update (world (0.00, 0.00, 0.00), local (15.46, -2.23, -73.32))
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Update () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:31)
+
+[t=2.01 frame=239] Prop.Update (world (3.00, 0.00, 0.00), local (18.46, -2.23, -73.32))
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Update () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:31)
+
+[t=2.01 frame=239] Prop.Update (world (0.00, 0.00, 3.00), local (15.46, -2.23, -70.32))
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Update () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:31)
+
+[t=2.01 frame=239] Prop.LateUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:LateUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:36)
+
+[t=2.01 frame=239] Prop.LateUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:LateUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:36)
+
+[t=2.01 frame=239] Prop.LateUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:LateUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:36)
+
+[t=2.04 frame=243] Prop.FixedUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:FixedUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:25)
+
+[t=2.04 frame=243] Prop.FixedUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:FixedUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:25)
+
+[t=2.04 frame=243] Prop.FixedUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:FixedUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:25)
+
+[t=3.01 frame=357] Prop.Update (world (0.00, 0.00, 0.00), local (15.46, -2.23, -73.32))
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Update () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:31)
+
+[t=3.01 frame=357] Prop.Update (world (3.00, 0.00, 0.00), local (18.46, -2.23, -73.32))
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Update () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:31)
+
+[t=3.01 frame=357] Prop.Update (world (0.00, 0.00, 3.00), local (15.46, -2.23, -70.32))
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Update () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:31)
+
+[t=3.01 frame=357] Prop.LateUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:LateUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:36)
+
+[t=3.01 frame=357] Prop.LateUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:LateUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:36)
+
+[t=3.01 frame=357] Prop.LateUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:LateUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:36)
+
+[t=3.06 frame=363] Prop.FixedUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:FixedUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:25)
+
+[t=3.06 frame=363] Prop.FixedUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:FixedUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:25)
+
+[t=3.06 frame=363] Prop.FixedUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:FixedUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:25)
+
+[t=4.02 frame=517] Prop.Update (world (0.00, 0.00, 0.00), local (15.46, -2.23, -73.32))
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Update () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:31)
+
+[t=4.02 frame=517] Prop.Update (world (3.00, 0.00, 0.00), local (18.46, -2.23, -73.32))
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Update () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:31)
+
+[t=4.02 frame=517] Prop.Update (world (0.00, 0.00, 3.00), local (15.46, -2.23, -70.32))
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Update () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:31)
+
+[t=4.02 frame=517] Prop.LateUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:LateUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:36)
+
+[t=4.02 frame=517] Prop.LateUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:LateUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:36)
+
+[t=4.02 frame=517] Prop.LateUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:LateUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:36)
+
+[t=4.08 frame=527] Prop.FixedUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:FixedUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:25)
+
+[t=4.08 frame=527] Prop.FixedUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:FixedUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:25)
+
+[t=4.08 frame=527] Prop.FixedUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:FixedUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:25)
+
+[t=5.02 frame=671] Prop.Update (world (0.00, 0.00, 0.00), local (15.46, -2.23, -73.32))
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Update () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:31)
+
+[t=5.02 frame=671] Prop.Update (world (3.00, 0.00, 0.00), local (18.46, -2.23, -73.32))
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Update () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:31)
+
+[t=5.02 frame=671] Prop.Update (world (0.00, 0.00, 3.00), local (15.46, -2.23, -70.32))
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:Update () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:31)
+
+[t=5.02 frame=671] Prop.LateUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:LateUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:36)
+
+[t=5.02 frame=671] Prop.LateUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:LateUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:36)
+
+[t=5.02 frame=671] Prop.LateUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:LateUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:36)
+
+[t=5.10 frame=683] Prop.FixedUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:FixedUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:25)
+
+[t=5.10 frame=683] Prop.FixedUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:FixedUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:25)
+
+[t=5.10 frame=683] Prop.FixedUpdate
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:FixedUpdate () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:25)
+
+[t=0.00 frame=0] Prop.OnDisable
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:OnDisable () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:39)
+
+[t=0.00 frame=0] Prop.OnDisable
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:OnDisable () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:39)
+
+[t=0.00 frame=0] Prop.OnDisable
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:OnDisable () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:39)
+
+[t=0.00 frame=0] Prop.OnDestroy
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:OnDestroy () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:41)
+
+[t=0.00 frame=0] Prop.OnDestroy
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:OnDestroy () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:41)
+
+[t=0.00 frame=0] Prop.OnDestroy
+UnityEngine.Debug:Log (object)
+Lab03LifecycleLogger:Log (string) (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:53)
+Lab03LifecycleLogger:OnDestroy () (at Assets/Lab03/Scripts/Lab03LifecycleLogger.cs:41)
+
