@@ -211,4 +211,43 @@ the entities spawned are in the main scene.
 2. I considered usign time.deltatime every frame but i decided to use time.time becuase it would be more imple to check when I had to switch.
 
 
+# Lab 05
+
+1) Experimental Scene
+1. The script selects the next waypoint by storing them all in an array. It starts at the first then goes throguh the list. Once it makes its way throguh the list it repeats.
+2. time.deltatime is used when calculating how far the target moves during each frame. It makes sure the target moves at a consistent speed.
+
+2) Camera Projection
+1. Changing the Fov changes how much of the scene the camera sees. A lower fov is more narrow and a higher wov is very wide and allows you to see more.
+2. In perspective ode the objects looked smaller when the camera moved further away and larger when it was closer. In orthographic mode the objects kept the same size regardless of distance.
+3. Objects closer than the clipping distance or too far away from the far clipping distance dissapeared.
+
+3) Coordinate Transformation
+1. The coordinates that remained the same were the worlds coodinates
+2. The values that changed were the screen coordinates and the camera coordinates
+3. The visible conditon is calculate if the target is in front of the camera and can be seen by the camera
+
+4) Camera Tracking
+1. The desired position is calculated by adding the cameras offset to the targets world positon. This is how it keeps the camera at a consistent distance.
+2. Direct tracking immediately moves the caemera when the target changes direction, smoothtracking does a gradual change.
+3. Tracking rate affects responsiveness because it is how quickly the camera approaches, a higher tracking rate means it responds faster
+4. THe camera computers rotation seperately from positon because position is where the camera is while rotation is what its facing.
+
+5) Light tracking
+1. Directional light used parallel light rays, point light was in all directions from a single point, and spot light was a cone shape.
+2. Light direction and surface orientation affected appearance by the direction determining which surface got light, SUfraces closer tot he light were brighter than surfaces facing away.
+3. Increasing intensity made the objects brighter, Increasing range let the light reach objects further away.
+4. Cast shadows convey spacial relationships because they help show the positon and distance of objects to the light source showing depth.
+
+6) Dynamic lighting
+1. THe current intensity is calculated to have a value between 0 and 1. the value is then passed into mathf.letp to go from minumum and maximum intensity
+2. transition seconds control the duration of the lighting transition
+3. changing intensity and color changes the brightness and the tint of the light
+
+7) Design challange
+1. The camera estimates the targets velocity by subtracting its previous positon from its current one and then dividing it by time.deltatime. then it multipies by prediction time and adds the result to the current positionn to determine future one
+2. Prediction time changes the visible space by going further away with longer prediction time and remaining closer to target with shorter prediction time
+3. at an abrupt direction change the camera can temporarily look in the wrong direction before updating to thw new one
+4. direct tracking immediately oves and rotates, smooth does it gradually lagging behind, predictive tracking moves ahead of the targets current position. 
+5. an improvement would be to smooth the velocity and limit the max distance. THis wouldstop the sudden direction changes making the camera look the wrong way.
 

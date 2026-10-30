@@ -3,36 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Shahm\\comp3770-110133966\\unity\\Lab02-Unity\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\shahm\\comp3770-110133966\\unity\\lab02-unity\\assets\\lab04\\scripts\\lab04entitymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\lab04\\scripts\\lab04entitymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\shahm\\comp3770-110133966\\unity\\lab02-unity\\assets\\lab05\\scripts\\lab05trackingcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\lab05\\scripts\\lab05trackingcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\shahm\\comp3770-110133966\\unity\\lab02-unity\\assets\\lab04\\scripts\\lab04challangecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\lab04\\scripts\\lab04challangecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\shahm\\comp3770-110133966\\unity\\lab02-unity\\assets\\lab05\\scripts\\lab05dynamiclight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\lab05\\scripts\\lab05dynamiclight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shahm\\comp3770-110133966\\unity\\Lab02-Unity\\Assets\\StreamingAssets\\Lab04\\Scripts\\Lab04DataManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\StreamingAssets\\Lab04\\Scripts\\Lab04DataManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\shahm\\comp3770-110133966\\unity\\lab02-unity\\assets\\lab05\\scripts\\lab05coordinatereporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\lab05\\scripts\\lab05coordinatereporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\shahm\\comp3770-110133966\\unity\\lab02-unity\\assets\\lab04\\scripts\\lab04sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\lab04\\scripts\\lab04sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\shahm\\comp3770-110133966\\unity\\lab02-unity\\assets\\lab05\\scripts\\lab05projectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\lab05\\scripts\\lab05projectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\shahm\\comp3770-110133966\\unity\\lab02-unity\\assets\\lab04\\scripts\\lab04managerdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\lab04\\scripts\\lab04managerdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shahm\\comp3770-110133966\\unity\\Lab02-Unity\\Assets\\StreamingAssets\\Lab04\\Scripts\\Lab04EntityData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\StreamingAssets\\Lab04\\Scripts\\Lab04EntityData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shahm\\comp3770-110133966\\unity\\Lab02-Unity\\Assets\\Lab04\\Resources\\Prefabs\\Lab04_PropA.prefab||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Lab04\\Resources\\Prefabs\\Lab04_PropA.prefab||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\shahm\\comp3770-110133966\\unity\\lab02-unity\\assets\\lab03\\scripts\\lab03follower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\lab03\\scripts\\lab03follower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shahm\\comp3770-110133966\\unity\\Lab02-Unity\\Assets\\Lab05\\Scripts\\Lab05TargetMotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Lab05\\Scripts\\Lab05TargetMotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,110 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Lab04ChallangeController.cs",
-              "DocumentMoniker": "C:\\Users\\Shahm\\comp3770-110133966\\unity\\Lab02-Unity\\Assets\\Lab04\\Scripts\\Lab04ChallangeController.cs",
-              "RelativeDocumentMoniker": "Assets\\Lab04\\Scripts\\Lab04ChallangeController.cs",
-              "ToolTip": "C:\\Users\\Shahm\\comp3770-110133966\\unity\\Lab02-Unity\\Assets\\Lab04\\Scripts\\Lab04ChallangeController.cs",
-              "RelativeToolTip": "Assets\\Lab04\\Scripts\\Lab04ChallangeController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAswCAAAAAJAAAAAAAAAA==",
+              "Title": "Lab05DynamicLight.cs",
+              "DocumentMoniker": "C:\\Users\\Shahm\\comp3770-110133966\\unity\\Lab02-Unity\\Assets\\Lab05\\Scripts\\Lab05DynamicLight.cs",
+              "RelativeDocumentMoniker": "Assets\\Lab05\\Scripts\\Lab05DynamicLight.cs",
+              "ToolTip": "C:\\Users\\Shahm\\comp3770-110133966\\unity\\Lab02-Unity\\Assets\\Lab05\\Scripts\\Lab05DynamicLight.cs",
+              "RelativeToolTip": "Assets\\Lab05\\Scripts\\Lab05DynamicLight.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-24T01:53:27.011Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Lab04SceneLoader.cs",
-              "DocumentMoniker": "C:\\Users\\Shahm\\comp3770-110133966\\unity\\Lab02-Unity\\Assets\\Lab04\\Scripts\\Lab04SceneLoader.cs",
-              "RelativeDocumentMoniker": "Assets\\Lab04\\Scripts\\Lab04SceneLoader.cs",
-              "ToolTip": "C:\\Users\\Shahm\\comp3770-110133966\\unity\\Lab02-Unity\\Assets\\Lab04\\Scripts\\Lab04SceneLoader.cs",
-              "RelativeToolTip": "Assets\\Lab04\\Scripts\\Lab04SceneLoader.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAwwCsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-24T01:28:00.744Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Lab04ManagerDemo.cs",
-              "DocumentMoniker": "C:\\Users\\Shahm\\comp3770-110133966\\unity\\Lab02-Unity\\Assets\\Lab04\\Scripts\\Lab04ManagerDemo.cs",
-              "RelativeDocumentMoniker": "Assets\\Lab04\\Scripts\\Lab04ManagerDemo.cs",
-              "ToolTip": "C:\\Users\\Shahm\\comp3770-110133966\\unity\\Lab02-Unity\\Assets\\Lab04\\Scripts\\Lab04ManagerDemo.cs",
-              "RelativeToolTip": "Assets\\Lab04\\Scripts\\Lab04ManagerDemo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-24T01:10:29.807Z",
+              "WhenOpened": "2026-10-30T17:13:09.865Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Lab04EntityManager.cs",
-              "DocumentMoniker": "C:\\Users\\Shahm\\comp3770-110133966\\unity\\Lab02-Unity\\Assets\\Lab04\\Scripts\\Lab04EntityManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Lab04\\Scripts\\Lab04EntityManager.cs",
-              "ToolTip": "C:\\Users\\Shahm\\comp3770-110133966\\unity\\Lab02-Unity\\Assets\\Lab04\\Scripts\\Lab04EntityManager.cs",
-              "RelativeToolTip": "Assets\\Lab04\\Scripts\\Lab04EntityManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Title": "Lab05TrackingCamera.cs",
+              "DocumentMoniker": "C:\\Users\\Shahm\\comp3770-110133966\\unity\\Lab02-Unity\\Assets\\Lab05\\Scripts\\Lab05TrackingCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\Lab05\\Scripts\\Lab05TrackingCamera.cs",
+              "ToolTip": "C:\\Users\\Shahm\\comp3770-110133966\\unity\\Lab02-Unity\\Assets\\Lab05\\Scripts\\Lab05TrackingCamera.cs",
+              "RelativeToolTip": "Assets\\Lab05\\Scripts\\Lab05TrackingCamera.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAUwDcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-24T00:57:17.186Z",
+              "WhenOpened": "2026-10-30T16:45:01.443Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Lab04DataManager.cs",
-              "DocumentMoniker": "C:\\Users\\Shahm\\comp3770-110133966\\unity\\Lab02-Unity\\Assets\\StreamingAssets\\Lab04\\Scripts\\Lab04DataManager.cs",
-              "RelativeDocumentMoniker": "Assets\\StreamingAssets\\Lab04\\Scripts\\Lab04DataManager.cs",
-              "ToolTip": "C:\\Users\\Shahm\\comp3770-110133966\\unity\\Lab02-Unity\\Assets\\StreamingAssets\\Lab04\\Scripts\\Lab04DataManager.cs",
-              "RelativeToolTip": "Assets\\StreamingAssets\\Lab04\\Scripts\\Lab04DataManager.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAADwv0MAAAABAAAAAAAAAA==",
+              "Title": "Lab05CoordinateReporter.cs",
+              "DocumentMoniker": "C:\\Users\\Shahm\\comp3770-110133966\\unity\\Lab02-Unity\\Assets\\Lab05\\Scripts\\Lab05CoordinateReporter.cs",
+              "RelativeDocumentMoniker": "Assets\\Lab05\\Scripts\\Lab05CoordinateReporter.cs",
+              "ToolTip": "C:\\Users\\Shahm\\comp3770-110133966\\unity\\Lab02-Unity\\Assets\\Lab05\\Scripts\\Lab05CoordinateReporter.cs",
+              "RelativeToolTip": "Assets\\Lab05\\Scripts\\Lab05CoordinateReporter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-24T00:09:10.536Z",
+              "WhenOpened": "2026-10-30T16:33:00.581Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Lab04EntityData.cs",
-              "DocumentMoniker": "C:\\Users\\Shahm\\comp3770-110133966\\unity\\Lab02-Unity\\Assets\\StreamingAssets\\Lab04\\Scripts\\Lab04EntityData.cs",
-              "RelativeDocumentMoniker": "Assets\\StreamingAssets\\Lab04\\Scripts\\Lab04EntityData.cs",
-              "ToolTip": "C:\\Users\\Shahm\\comp3770-110133966\\unity\\Lab02-Unity\\Assets\\StreamingAssets\\Lab04\\Scripts\\Lab04EntityData.cs",
-              "RelativeToolTip": "Assets\\StreamingAssets\\Lab04\\Scripts\\Lab04EntityData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Lab05ProjectionController.cs",
+              "DocumentMoniker": "C:\\Users\\Shahm\\comp3770-110133966\\unity\\Lab02-Unity\\Assets\\Lab05\\Scripts\\Lab05ProjectionController.cs",
+              "RelativeDocumentMoniker": "Assets\\Lab05\\Scripts\\Lab05ProjectionController.cs",
+              "ToolTip": "C:\\Users\\Shahm\\comp3770-110133966\\unity\\Lab02-Unity\\Assets\\Lab05\\Scripts\\Lab05ProjectionController.cs",
+              "RelativeToolTip": "Assets\\Lab05\\Scripts\\Lab05ProjectionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-24T00:00:10.296Z",
+              "WhenOpened": "2026-10-30T16:15:48.794Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Lab04_PropA.prefab",
-              "DocumentMoniker": "C:\\Users\\Shahm\\comp3770-110133966\\unity\\Lab02-Unity\\Assets\\Lab04\\Resources\\Prefabs\\Lab04_PropA.prefab",
-              "RelativeDocumentMoniker": "Assets\\Lab04\\Resources\\Prefabs\\Lab04_PropA.prefab",
-              "ToolTip": "C:\\Users\\Shahm\\comp3770-110133966\\unity\\Lab02-Unity\\Assets\\Lab04\\Resources\\Prefabs\\Lab04_PropA.prefab",
-              "RelativeToolTip": "Assets\\Lab04\\Resources\\Prefabs\\Lab04_PropA.prefab",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFsAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-10-23T23:25:36.125Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Lab03Follower.cs",
-              "DocumentMoniker": "C:\\Users\\Shahm\\comp3770-110133966\\unity\\Lab02-Unity\\Assets\\Lab03\\Scripts\\Lab03Follower.cs",
-              "RelativeDocumentMoniker": "Assets\\Lab03\\Scripts\\Lab03Follower.cs",
-              "ToolTip": "C:\\Users\\Shahm\\comp3770-110133966\\unity\\Lab02-Unity\\Assets\\Lab03\\Scripts\\Lab03Follower.cs",
-              "RelativeToolTip": "Assets\\Lab03\\Scripts\\Lab03Follower.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Lab05TargetMotion.cs",
+              "DocumentMoniker": "C:\\Users\\Shahm\\comp3770-110133966\\unity\\Lab02-Unity\\Assets\\Lab05\\Scripts\\Lab05TargetMotion.cs",
+              "RelativeDocumentMoniker": "Assets\\Lab05\\Scripts\\Lab05TargetMotion.cs",
+              "ToolTip": "C:\\Users\\Shahm\\comp3770-110133966\\unity\\Lab02-Unity\\Assets\\Lab05\\Scripts\\Lab05TargetMotion.cs",
+              "RelativeToolTip": "Assets\\Lab05\\Scripts\\Lab05TargetMotion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-19T17:04:52.749Z",
+              "WhenOpened": "2026-10-30T16:04:57.427Z",
               "EditorCaption": ""
             }
           ]
